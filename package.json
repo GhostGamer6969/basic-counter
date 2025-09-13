@@ -16,7 +16,7 @@
     "@types/mocha": ">=10.0.10",
     "@types/node": "^22.8.5",
     "chai": "^5.1.2",
-    "ethers": "^6.14.0",
+    "ethers": "^6.15.0",
     "forge-std": "foundry-rs/forge-std#v1.9.4",
     "hardhat": "^3.0.6",
     "mocha": "^11.0.0",
